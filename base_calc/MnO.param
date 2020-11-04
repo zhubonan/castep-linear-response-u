@@ -1,0 +1,13 @@
+spin_polarised : true
+spin: 5
+iprint: 3
+
+write_otfg: false
+write_cst_esp: false
+write_bib: false
+
+%BLOCK DEVEL_CODE
+
+iprintu=8,
+
+%ENDBLOCK DEVEL_CODE
