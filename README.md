@@ -6,6 +6,8 @@
 2. `base script.sh`
 3. Run this notebook or `python post-process.py`
 
+![Results for the toy system](https://raw.githubusercontent.com/zhubonan/castep-linear-response-u/master/response.png)
+
 ## How it works
 
 Adjust the `HUBBARD_ALPHA` value and record the initial and final occupations of the Mn d levels when continuing from the unperturbed run (`base_calc`).
