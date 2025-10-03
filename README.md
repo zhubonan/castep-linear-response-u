@@ -1,5 +1,7 @@
 # Computing ab inito U value using the linear response method with CASTEP
 
+**WARNING**: It is known that CASTEP v25.12 has issue printing out the none-self-consistent occupation number and hence is not compatible with the script provided in the repository. 
+
 ## How to run
 
 1. Have CASTEP compiled and `castep.mpi` in the `$PATH`
